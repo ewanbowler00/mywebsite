@@ -1,0 +1,38 @@
+.main-text {
+  padding: 10vh 10px;
+  color: rgb(41, 41, 99);
+  height: 90vh;
+  margin: 0% 10%;
+  font-family: Trebuchet MS;
+}
+
+body {
+  background-color: #add8e6;
+}
+
+.banner {
+  background-color: white;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  width: 100vw;
+  padding-left: 13vw;
+  font-family: Georgia;
+}
+
+.details {
+  margin-left: 3%;
+}
+
+.details {
+  background-color: rgb(41, 41, 99);
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.horizontal-container {
+  display: flex;
+  flex-direction: row;
+}
